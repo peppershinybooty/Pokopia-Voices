@@ -1,0 +1,7 @@
+id = "pokemon_voice_library"
+name = "Pokopia Anime Voices"
+version = "1.0.0"
+description = "Anime voice replacements for 51 Pokemon."
+authors = []
+data = "assets"
+affects = "gameplay"
