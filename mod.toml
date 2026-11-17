@@ -2,6 +2,6 @@ id = "pokemon_voice_library"
 name = "Pokopia Anime Voices"
 version = "2.1.0"
 description = "Anime voice replacements for 173 Pokemon."
-authors = []
+authors = [eppielicious]
 data = "assets"
 affects = "gameplay"
